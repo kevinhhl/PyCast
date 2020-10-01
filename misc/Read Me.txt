@@ -1,10 +1,7 @@
 This folder contains the following tool(s):
 
 1\ ScreenCap.exe : A lightweight screenshot tool ("ScreenCap") developed by 'ftchan5'
-                   (shout-outs to the developer)
-                   - PyCast has been tested at user's acceptance level by using this
-                     tool in complement with it
-                   - Reason because ScreenCap retains all screenshots taken and displays
-                     them as floating objects (with thin boarders) ontop your windows.
-                     With this feature, you can keep track of which area on screen you 
-                     have performed OCR.
+                   - ScreenCap works well with Pycast, the reason because it retains
+                     screenshots taken and displays them as floating objects ontop your
+                     screen until you choose to dismiss them. With this feature, you
+                     can keep track of which area on screen you have performed OCR.
