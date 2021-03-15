@@ -1,13 +1,6 @@
 
-PyCast/.spyproject/config/codestyle.ini
-PyCast/.spyproject/config/defaults/defaults-codestyle-0.2.0.ini
-PyCast/.spyproject/config/defaults/defaults-encoding-0.2.0.ini
-PyCast/.spyproject/config/defaults/defaults-vcs-0.2.0.ini
-PyCast/.spyproject/config/defaults/defaults-workspace-0.2.0.ini
-PyCast/.spyproject/config/encoding.ini
-PyCast/.spyproject/config/vcs.ini
-PyCast/.spyproject/config/workspace.ini
 PyCast/.spyproject/*
+PyCast/dist/*
 *.pyc
 *.spec
 build/__main__/__main__.exe.manifest
