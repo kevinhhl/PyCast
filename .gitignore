@@ -8,3 +8,11 @@ PyCast/.spyproject/config/encoding.ini
 PyCast/.spyproject/config/vcs.ini
 PyCast/.spyproject/config/workspace.ini
 PyCast/.spyproject/*
+*.pyc
+*.spec
+build/__main__/__main__.exe.manifest
+build/__main__/base_library.zip
+build/*
+pyinstaller.txt
+dist/*
+Read Me (tutorial + updates).xlsx
